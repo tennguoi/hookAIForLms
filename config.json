@@ -1,0 +1,8 @@
+{
+    "api_base_url": "http://localhost:3900/api/v1",
+    "jwt_token": "",
+    "ollama_url": "http://localhost:11434",
+    "ollama_model": "qwen3:8b",
+    "deadline_warn_hours": 48,
+    "hook_port": 3901
+}
